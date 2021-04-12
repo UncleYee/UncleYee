@@ -1,4 +1,4 @@
-## Hey, UncleYee(皮蛋菌丶) here! 👋
+## Hey, UncleYee here! 👋
 
 I'm UncleYee, you can also call me PiDanJun(皮蛋菌丶), a front-end developer from NanJing, China.
 
