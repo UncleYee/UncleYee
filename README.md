@@ -1,8 +1,5 @@
 ## Hey, UncleYee here! 👋
 
-I'm UncleYee, you can also call me PiDanJun(皮蛋菌丶), a front-end developer from Nanjing, China.
-
-
 [![](https://github-readme-stats.vercel.app/api?username=UncleYee&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)](https://github.com/UncleYee/UncleYee)
 
 <!--
